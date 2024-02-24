@@ -1,5 +1,7 @@
 # FAQ-Page
 Hey there!
-This is a simple FAQ Page that i created while learning JS.
-I have used HTML, CSS and JS in this project.
-This FAQ Page is responsive as well.
+<ul>
+  <li>This is a simple FAQ Page that i created while learning JS.</li>
+  <li>I have used HTML, CSS and JS in this project.</li>
+  <li>This FAQ Page is responsive as well.</li>
+</ul>
